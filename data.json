@@ -1,0 +1,21 @@
+{
+    
+    "usuario": [
+      {
+        "id": 1,
+        "apellido_paterno": "Garcia",
+        "apellido_materno": "Sanchez",
+        "nombre": "Silvia",
+        "username": "garcia.s091@gmail.com",
+        "password": "827ccb0eea8a706c4c34a16891f84e7b"
+      },
+      {
+        "id": 2,
+        "apellido_paterno": "Cano",
+        "apellido_materno": "Garcia",
+        "nombre": "Daniel",
+        "username": "dcano@gmail.com",
+        "password": "827ccb0eea8a706c4c34a16891f84e7b"
+      }
+    ]
+    }
